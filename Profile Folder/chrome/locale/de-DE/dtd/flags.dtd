@@ -1,0 +1,6 @@
+<!ENTITY warning.header			"Vorsicht, diese Experimente können beißen">
+<!ENTITY warning.title			"ACHTUNG">
+<!ENTITY warning.description	"Diese experimentellen Funktionen können sich jederzeit ändern, nicht mehr funktionieren oder verschwinden. Wir geben keinerlei Garantien dafür, was passieren kann, wenn Sie eines dieser Experimente aktivieren, und Ihr Browser kann sogar spontan in Flammen aufgehen. Spaß beiseite: Ihr Browser kann alle Ihre Daten löschen oder Ihre Sicherheit und Privatsphäre könnten auf unerwartete Weise gefährdet werden. Alle Experimente, die Sie aktivieren, werden für alle Benutzer dieses Browsers aktiviert. Bitte gehen Sie mit Vorsicht vor.">
+
+<!ENTITY experiments.available.title	"Experimente">
+<!ENTITY experiments.unavailable.title	"Nicht verfügbare Experimente">

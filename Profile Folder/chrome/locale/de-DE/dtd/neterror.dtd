@@ -1,0 +1,4 @@
+<!ENTITY neterror.nointernet    "Es besteht keine Internetverbindung">
+<!ENTITY neterror.cable         "Überprüfung der Netzwerkkabel, des Modems und des Routers">
+<!ENTITY neterror.wifi          "Erneute Verbindung zum WLAN herstellen">
+<!ENTITY neterror.try           "Versuche:">

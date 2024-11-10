@@ -1,0 +1,15 @@
+<!ENTITY gwizard.chooseAVisualStyle	"Wählen Sie einen visuellen Stil">
+<!ENTITY gwizard.additionalSettings	"Weitere Einstellungen">
+<!ENTITY gwizard.finish	"Finish">
+
+<!ENTITY gwizard.gsettingsDescription 		"Machen Sie Ihr Geckium wirklich einzigartig.">
+<!ENTITY gwizard.launch 					"Starten">
+<!ENTITY gwizard.chromiumFlagsTitle			"Chromium-Flags">
+<!ENTITY gwizard.chromiumFlagsDescription	'Chromium-Flags wurden auf Geckium portiert. Verfügbar unter "about:flags" oder in den Geckium-Einstellungen.'>
+
+<!ENTITY gwizard.YouAreAllSetTitle			"Sie sind startklar!">
+<!ENTITY gwizard.YouAreAllSetDescription	'Sie können die Geckium-Einstellungen jederzeit erreichen, indem Sie in der Symbolleiste auf die Schaltfläche "Geckium-Einstellungen" klicken oder mit der rechten Maustaste auf die Symbolleiste klicken.'>
+
+<!ENTITY gwizard.publicBetaTitle			"Geckium ist ein instabiles Vorab-Theme">
+<!ENTITY gwizard.publicBetaDescription	    "Dies ist die öffentliche Betaversion von Geckium, daher können erhebliche Ungenauigkeiten, unvollständige Lokalisierungen oder zufällige kritische Fehler auftreten. Wenn Sie Fehler finden, melden Sie diese bitte auf der Geckium-GitHub-Seite, von der Sie Geckium heruntergeladen haben.">
+<!ENTITY gwizard.publicBetaLocalise         "Wenn Sie nicht-englische Sprachen fließend beherrschen, können Sie über die GitHub-Seite von Geckium auch Lokalisierungen für Geckium in Ihrer Sprache beisteuern.">

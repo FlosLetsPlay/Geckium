@@ -1,0 +1,197 @@
+<!ENTITY gsettings.disabledWizardNotice "Einige Optionen wurden deaktiviert, da sie vom Assistenten gestartet wurden.">
+
+<!ENTITY gsettings.welcome          "Willkommen">
+
+<!ENTITY gsettings.design	        "Design">
+<!ENTITY gsettings.behaviour		"Verhaltem">
+<!ENTITY gsettings.pages			"Seiten">
+<!ENTITY gsettings.theme		    "Theme">
+<!ENTITY gsettings.people			"Personen">
+
+<!ENTITY gsettings.chromiumExperiments 	"Chromium Experimente">
+<!ENTITY gsettings.developerOptions		"Entwicklereinstellungen">
+
+<!ENTITY gsettings.help					"Hilfe">
+<!ENTITY gsettings.about				"Über">
+
+<!ENTITY gsettings.welcomeTo            "Willkommen zu">
+
+<!ENTITY gsettings.supportTheProject				"Unterstüze das Projekt">
+<!ENTITY gsettings.openInTabNext					"Das nächste Mal in einem neuen Tab öffnen">
+
+<!ENTITY gsettings.designDescription                "Wählen Sie Ihr bevorzugtes Design oder ändern Sie die Art und Weise, wie die Titelleiste aussieht und sich verhält.">
+<!ENTITY gsettings.behaviourDescription             "Verwalten Sie das Branding von Geckium, die Funktionsweise von Themes und passen Sie andere Verhaltensweisen in Geckium an.">
+<!ENTITY gsettings.pagesDescription                 "Passen Sie verschiedene Seiten in Geckium an, einschließlich des neuen Tabs und der App-Seiten.">
+<!ENTITY gsettings.themeDescription                 "Wählen Sie ein Systemdesign, Firefox-Design oder Chromium-Design aus, das Sie in Geckium verwenden möchten.">
+<!ENTITY gsettings.peopleDescription				'Wählen Sie aus, wie die Schaltfläche "Personen" aussehen soll.'>
+<!ENTITY gsettings.chromiumExperimentsDescription   "Aktivieren oder deaktivieren Sie verworfene Optionen aus der gesamten Chromium-Geschichte.">
+
+<!ENTITY gsettings.automatic					"Automatisch">
+
+<!ENTITY gsettings.titlebar                         "Titelleiste">
+<!ENTITY gsettings.titlebarStyle                    "Titelleiste und Benutzeroberflächenstil">
+<!ENTITY gsettings.titlebarStyleWinNoGaps           "Windows (lückenlos)">
+<!ENTITY gsettings.titlebarStyleLinuxAlpha          "Linux (Alpha)">
+<!ENTITY gsettings.titlebarMode                     "Titelleiste Modus">
+<!ENTITY gsettings.titlebarModeDisclaimer           "Einige Titelleistenstile ignorieren diese Einstellung">
+<!ENTITY gsettings.titlebarModeSystem               "System Ränder">
+<!ENTITY gsettings.titlebarModeCompact              "Kompakte Ränder">
+<!ENTITY gsettings.titlebarInThemesIsSys            "Verwenden Sie Systemränder in kompatiblen Chromium-Designs">
+<!ENTITY gsettings.titlebarInThemesIsSysDisclaimer  "Erfordert, dass Systemränder aktiviert oder von Ihrem Titelleistenstil verwendet werden">
+
+<!ENTITY gsettings.availablePresets			"Verfügbare Voreinstellungen">
+<!ENTITY gsettings.resetOverrides			"Überschreibungen zurücksetzen">
+
+<!ENTITY gsettings.mainInterface                        "Hauptoberfläche">
+<!ENTITY gsettings.overrideVisualStylePreset			"Voreinstellung für visuellen Stil überschreiben">
+
+<!ENTITY gsettings.newTab	"Neuer Tab">
+
+<!ENTITY gsettings.quickAccess				"Schnellzugriff">
+<!ENTITY gsettings.designToBehaviour    	"Verwalten Sie das Branding, die Toolbarelemente und das Themenverhalten...">
+<!ENTITY gsettings.designToPages			'Inhalte der "Neuer Tab"-Seite verwalten...'>
+<!ENTITY gsettings.designToThemes       	"Ändern oder verwalten Sie Themen...">
+<!ENTITY gsettings.designToExperiments      "Entdecken Sie verworfene Chromium-Designoptionen...">
+
+<!ENTITY gsettings.browser                              "Browser">
+<!ENTITY gsettings.branding								"Branding">
+<!ENTITY gsettings.saveDiscardedCRX						"Verworfene CRX-Datei-Downloads speichern">
+<!ENTITY gsettings.saveDiscardedCRXDescription			"Ermöglicht das Herunterladen von Chromium-Themes, ohne sie zu installieren, indem Sie auf Verwerfen klicken.">
+<!ENTITY gsettings.toolbar                              "Toolbar">
+<!ENTITY gsettings.needsRestart	   						"Benötigt Neustart">
+<!ENTITY gsettings.enableTabManager						"Tab-Manager aktivieren">
+<!ENTITY gsettings.hideExtensionsMenuButton				"Schaltfläche „Erweiterungen ausblenden“">
+
+<!ENTITY gsettings.macIsGraphite				        "Verwenden Sie Graphite-Titelleistenschaltflächen">
+<!ENTITY gsettings.macOSZoomIsFullscreen				"Ersetzen Sie Zoom durch Vollbild im macOS-Titelleistenstil">
+<!ENTITY gsettings.macOSZoomIsFullscreenDisclaimer		"Diese Option funktioniert nur unter Windows und Linux">
+
+<!ENTITY gsettings.themes                               "Themes">
+<!ENTITY gsettings.accommodateChrThemes                 "Passen Sie Chromium-Themes an Designs an, für die sie nicht gemacht wurden">
+<!ENTITY gsettings.accommodateChrThemesDisclaimer       "Dadurch können moderne Designs mit alten Designs kompatibel sein und umgekehrt">
+<!ENTITY gsettings.chrThemeFallbacks                    "Fallback-Titelleisten- und Symbolleistenfarben in Chromium-Designs">
+<!ENTITY gsettings.chrThemeFallbacksDisclaimer          "Themen mit Bildtexturen ignorieren diese Einstellung">
+<!ENTITY gsettings.enabled					            "Aktiviert">
+<!ENTITY gsettings.disabled					            "Deaktiviert">
+<!ENTITY gsettings.chrThemesMustAero                    "Erzwingen Sie, dass alle Chromium-Designs Systemränder verwenden">
+<!ENTITY gsettings.chrThemesMustAeroDisclaimer          "Erfordert die Aktivierung von Systemgrenzen in kompatiblen Chromium-Designs">
+<!ENTITY gsettings.firefoxThemeOnTitlebuttons           "Symbolleistenhintergrund auf Titelleistenschaltflächen anwenden">
+<!ENTITY gsettings.firefoxThemeOnTitlebuttonsDisclaimer "Einige Titelleistenstile ignorieren diese Einstellung">
+<!ENTITY gsettings.colorizeTabGlareEffect 				"Blendeffekt der Registerkarte entsprechend dem benutzerdefinierten Design einfärben">
+<!ENTITY gsettings.colorizeTabGlareEffectDescription    "Färbt den Tab-Hover-Effekt ein">
+<!ENTITY gsettings.themeNewTabFooter                    "Design der Fußzeile des neuen Tabs entsprechend dem angewendeten benutzerdefinierten Design">
+
+<!ENTITY gsettings.gtkIconsInToolbarItems		        "Systemsymbole in Toolbarelementen">
+<!ENTITY gsettings.gtkIconsInToolbarItemsDisclaimer	    "Erfordert Linux mit aktiviertem GTK+-Design">
+<!ENTITY gsettings.official                             "Offiziell">
+<!ENTITY gsettings.allToolbarItems                      "Alle Toolbarelemente">
+<!ENTITY gsettings.none                                 "Keiner">
+
+<!ENTITY gsettings.enableWebsitePinningInEveryEra				"Aktivieren Sie das anheften von Websites in jedem Bereich">
+<!ENTITY gsettings.enableWebsitePinningInEveryEraDescription	"Aktivieren Sie das anheften von Websites in jedem Bereich">
+
+<!ENTITY gsettings.about        "Über">
+<!ENTITY gsettings.chooseAbout  "Wählen Sie die Info Seite.">
+<!ENTITY gsettings.browser      "Browser">
+<!ENTITY gsettings.ask          "Fragen">
+
+<!ENTITY gsettings.behaviourToDesign        "Design wechseln oder Überschreibungen verwalten...">
+<!ENTITY gsettings.behaviourToTheme         "Wenden Sie ein Thema an, um Verhaltensänderungen zu beobachten...">
+<!ENTITY gsettings.behaviourToExperiments   "Erkunden Sie die verworfenen Chromium-Verhaltensoptionen...">
+
+<!ENTITY gsettings.appsList					"Apps Liste">
+
+<!ENTITY gsettings.pagesToDesign            'Ändern des Designs der Seite "Neuer Tab"...'>
+<!ENTITY gsettings.pagesToBehaviour         'Verhalten von Designs auf der "Neuer Tab"-Seite verwalten...'>
+<!ENTITY gsettings.pagesToTheme             'Personalisieren Sie die neue "Neuer Tab"-Seite mit Designs...'>
+
+<!ENTITY gsettings.appearance                           "Erscheinung">
+<!ENTITY gsettings.openChrThemesFolder				    "Öffnen Sie den Chromium-Themenordner">
+<!ENTITY gsettings.refreshList					        "Liste aktualisieren">
+<!ENTITY gsettings.filename								"Datei-Name:">
+<!ENTITY gsettings.viewStorePage						"Store-Seite anzeigen">
+<!ENTITY gsettings.search								"Suchen">
+
+<!ENTITY gsettings.customFirefoxThemeMode				"Benutzerdefinierter Firefox-Designmodus">
+<!ENTITY gsettings.toolbarStyleFXChrome                 "FXChrome-artig">
+<!ENTITY gsettings.doNotThemeToolbars					"Toolbar nicht thematisieren">
+
+<!ENTITY gsettings.geckiumYouSource                     "Geckium You Farbquelle">
+<!ENTITY gsettings.geckiumYouDisclaimer                 "Chrome 58 wird von Geckium You nicht unterstützt.">
+<!ENTITY gsettings.grey                                 "Grau">
+<!ENTITY gsettings.w3cAccentColor                       "Akzentfarbe">
+<!ENTITY gsettings.custom                               "Benutzerdefiniert">
+<!ENTITY gsettings.wincolor                             "Fensterfarbe">
+
+<!ENTITY gsettings.filterThemesBy                       "Themen filtern nach...">
+<!ENTITY gsettings.allThemes                            "Alle Themes">
+<!ENTITY gsettings.sysThemes                            "System Themes">
+<!ENTITY gsettings.chrThemes                            "Chromium Themes">
+<!ENTITY gsettings.lwThemes                             "Firefox Themes">
+
+<!ENTITY gsettings.sysThemeIsFallback                   "Fallback">
+<!ENTITY gsettings.sysThemeWindows                      "Standard (Windows)">
+<!ENTITY gsettings.sysThemeClassic                      "Classic">
+<!ENTITY gsettings.sysThemeYou                          "Geckium You">
+<!ENTITY gsettings.sysThemeNative                       "Nativ">
+<!ENTITY gsettings.sysThemeMacOSX                       "Standard (Mac OS X)">
+<!ENTITY gsettings.sysThemeMacOS                        "Standard (macOS)">
+<!ENTITY gsettings.sysThemeChrOS                        "Standard (OS)">
+<!ENTITY gsettings.getMoreMozillaFirefoxThemes          "Holen Sie sich weitere Mozilla Firefox-Themen">
+<!ENTITY gsettings.getMoreGoogleChromeThemes            "Holen Sie sich weitere Google Chrome-Themen">
+<!ENTITY gsettings.getMoreMicrosoftEdgeThemes           "Holen Sie sich weitere Microsoft Edge-Themen">
+
+<!ENTITY gsettings.themeToDesign                "Probieren Sie Ihre Themen auf verschiedenen Designs aus...">
+<!ENTITY gsettings.themeToBehaviour             "Passen Sie an, welche Auswirkungen die Themen der Benutzeroberfläche haben...">
+<!ENTITY gsettings.themeToExperiments           "Personalisieren Sie noch weiter mit den abgeschafften Chromium-Optionen...">
+
+<!ENTITY gsettings.peoplePositionTitle			"Position">
+<!ENTITY gsettings.peoplePositionDescription	'Die Schaltfläche "Personen" hatte im Laufe der Jahre verschiedene Positionen.'>
+
+<!ENTITY gsettings.pickAnAvatar		"Wähle einen Avatar">
+<!ENTITY gsettings.avatarMode		"Avatar-Modus">
+<!ENTITY gsettings.chooseAPicture	"Wählen Sie ein Bild">
+<!ENTITY gsettings.imagePath		"Bildpfad">
+
+<!ENTITY gsettings.flags 'Flags - auch verfügbar über "about:flags"'>
+
+<!ENTITY gsettings.createYourGecko	"Gestalten Sie Ihr eigenes Gecko-Dekor!">
+<!ENTITY gsettings.export	"Exportieren">
+
+<!ENTITY gsettings.clearStartupCacheAndRestartWithWizard	"Startcache leeren und mit Assistent neu starten">
+<!ENTITY gsettings.restartBrowser							"Browser neu starten">
+<!ENTITY gsettings.clearStartupCacheAndRestartBrowser		"Startcache leeren und Browser neu starten">
+
+<!ENTITY gsettings.usefulLinks 				"Nützliche Links">
+<!ENTITY gsettings.faq						"Häufig gestellte Fragen">
+<!ENTITY gsettings.faqWindowBlindsQuestion 	"Q: WindowBli-">
+<!ENTITY gsettings.faqWindowBlindsAnswer	"F: NEIN.">
+<!ENTITY gsettings.aboutFlagsQuestion		"Q: Warum werden bei about:flags nur einige oder keine Flaggen angezeigt??">
+<!ENTITY gsettings.aboutFlagsAnswer			"F: Derzeit sind nur für einige visuelle Stile Flaggen verfügbar.">
+
+<!ENTITY gsettings.checkForUpdates			"Nach Updates suchen">
+<!ENTITY gsettings.automaticUpdateChecker	"Automatischer Update-Checker">
+<!ENTITY gsettings.branch					"Branch">
+<!ENTITY gsettings.creditsTitle				"Credits">
+<!ENTITY gsettings.creditsDescription		"Liste der Entwickler, Mitwirkenden und Tester.">
+<!ENTITY gsettings.version					"Version">
+<!ENTITY gsettings.updateChannel			"Update Kanal">
+<!ENTITY gsettings.basedOnVersion			"Basierend auf der Version">
+<!ENTITY gsettings.architecture				"Architektur">
+<!ENTITY gsettings.profileName				"Profil Name">
+
+<!ENTITY gsettings.modalChromiumVisualStylePresetsTitle			"Über Chromium Visual Style Presets">
+<!ENTITY gsettings.modalChromiumVisualStylePresetsDescription	"Wählen Sie aus einer Auswahl verschiedener visueller Stile, die Chromium im Laufe der Jahre hatte, von Chrome 1 bis 58.">
+<!ENTITY gsettings.modalDesignOverridden                        "Designvorgaben werden derzeit überschrieben. Möchten Sie die Überschreibungen zurücksetzen??">
+<!ENTITY gsettings.modalEditAppTitle							"Bearbeiten">
+<!ENTITY gsettings.modalEditAppOldFavicon						"Altes favicon">
+<!ENTITY gsettings.modalEditAppOldIcon							"Altes icon">
+<!ENTITY gsettings.modalEditAppNewIcon							"Neues icon">
+<!ENTITY gsettings.modalEditAppOldName							"Alter name">
+<!ENTITY gsettings.modalEditAppNewName							"Neuer name">
+<!ENTITY gsettings.modalGkBranchesTitle							"Geckium Branches">
+<!ENTITY gsettings.modalGkBranchesDescription					"Die verschiedenen Geckium-Branch sind für unterschiedliche Forks von Firefox, einige ändern die Benutzeroberfläche zu stark, was bedeutet, dass wir einige Dinge anders machen müssen.">
+<!ENTITY gsettings.modalGkBranchesCurrent						"Aktueller Branch:">
+
+<!ENTITY gsettings.delete "Löschen">
+<!ENTITY gsettings.create "Erstellen">
